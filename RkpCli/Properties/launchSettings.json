@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RkpCli": {
+      "commandName": "Project",
+      "commandLineArgs": "10.250.0.10 ..\\..\\..\\..\\lagerVorlage.csv D951-0122"
+    }
+  }
+}
